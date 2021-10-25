@@ -13,3 +13,8 @@ The below was utilized to retrieve and consolidate this data:
 ----
 Some pertinent code involved in this analysis is shown in the image below. This block of code is gathering & cleaning data from the datasets mentioned above, and transferring into a Pandas Data Frame.
 ![This is an image](https://github.com/KEGANCP/Movies-ETL/blob/main/RESOURCES/read_data.png)
+
+Below is an example of the 'movies' data frame after scrubbed to show column headers pertinent for this analysis.
+![This is an image](https://github.com/KEGANCP/Movies-ETL/blob/main/RESOURCES/movies_table.png)
+
+After creating a SQL database, we are now prepared to begin Amazing Prime's request for a 'Hack-A-Thon' for individuals to analyize and work toward finding the requested information.
